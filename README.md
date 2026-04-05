@@ -1,23 +1,32 @@
-<<<<<<< HEAD
-# WebDevDiary
-Designing a Dashboard with React JS, Tailwind CSS and daisyUI
-=======
-# React + Vite
+**JSK DMS CENTRAL**
+**<<<<<<<o>>>>>>>>>**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Building a modern Central Dashboard with React JS, Tailwind CSS, daisyUI and more essential tools and packages.
 
-Currently, two official plugins are available:
+Developing a modern WEB APP for a central Dashboard UI for a "Digital Monitoring System" that manages multiple business units including 20 medical centers, 1 hospital, 2 diagnostic centers, a travel agency, a broker house, and a highway bus service with 35 buses (with CCTV and VTS).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**The UI should include:**
+============================
+- Left sidebar navigation with icons
+- Top navbar with user profile and notifications
+- Clean grid dashboard cards
 
-## React Compiler
+Dashboard sections:
+- Medical Centers overview (20 locations)
+- Hospital monitoring
+- Diagnostic centers stats
+- Travel agency operations
+- Broker house activity
+- Bus service tracking (live GPS, camera status)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Include:
+- Real-time analytics charts
+- Recent logs table
+- Status indicators (active, pending, offline)
+- Clean, minimal, modern design (Tailwind style)
+- Light theme with soft shadows
+- Fully responsive layout
 
-## Expanding the ESLint configuration
+Style: grayscale wireframe OR soft UI color palette, professional SaaS dashboard, spacing, typography hierarchy
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 7ec89b5 (Dashboard Design for Web Development Library Web Application)
-"# webdevdiary" 
-"jsk-dms-center" 
+
