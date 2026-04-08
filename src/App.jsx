@@ -12,10 +12,15 @@ import AllLogs from "./pages/MonitoringLog/AllLogs"
 import Support from "./pages/Support/Support"
 
 
+
+
 function App() {
 
   return (
-    <> 
+
+    
+    <>
+    
       <Routes>
         <Route path="/" element={<Dashboard />} />
         <Route path="/all-logs" element={<AllLogs />} />
@@ -25,8 +30,6 @@ function App() {
         <Route path="/logout" element={<Logout />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/support" element={<Support />} />
-        
-        
         
       </Routes>
 
